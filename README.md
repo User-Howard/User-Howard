@@ -2,6 +2,7 @@
 ![Language](https://img.shields.io/badge/language-C/C++-brightgreen)
 ![Language](https://img.shields.io/badge/language-Python-brightgreen)
 ![Language](https://img.shields.io/badge/language-Swift-brightgreen)
+![Language](https://img.shields.io/badge/做題數-273-brightgreen)
 - 🌱 I’m currently learning C/C++, Python, Swift
 
 
