@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-Updated by GitHub Actions!"""
+-->"""
 with open('README.md', 'w') as file:
     file.write(content)
